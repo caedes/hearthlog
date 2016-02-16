@@ -1,0 +1,13 @@
+{
+  "name": "hearthlog",
+  "version": "1.0.0",
+  "description": "Hearthstone Logs Tracker",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "author": "caedes",
+  "devDependencies": {
+    "electron-prebuilt": "^0.36.0"
+  }
+}
